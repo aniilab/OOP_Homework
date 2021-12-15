@@ -1,0 +1,14 @@
+D:\c#\ConverterProgram\ConverterProgram\bin\Debug\netcoreapp3.1\ConverterProgram.exe
+D:\c#\ConverterProgram\ConverterProgram\bin\Debug\netcoreapp3.1\ConverterProgram.deps.json
+D:\c#\ConverterProgram\ConverterProgram\bin\Debug\netcoreapp3.1\ConverterProgram.runtimeconfig.json
+D:\c#\ConverterProgram\ConverterProgram\bin\Debug\netcoreapp3.1\ConverterProgram.runtimeconfig.dev.json
+D:\c#\ConverterProgram\ConverterProgram\bin\Debug\netcoreapp3.1\ConverterProgram.dll
+D:\c#\ConverterProgram\ConverterProgram\bin\Debug\netcoreapp3.1\ConverterProgram.pdb
+D:\c#\ConverterProgram\ConverterProgram\obj\Debug\netcoreapp3.1\ConverterProgram.csproj.AssemblyReference.cache
+D:\c#\ConverterProgram\ConverterProgram\obj\Debug\netcoreapp3.1\ConverterProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\ConverterProgram\ConverterProgram\obj\Debug\netcoreapp3.1\ConverterProgram.AssemblyInfoInputs.cache
+D:\c#\ConverterProgram\ConverterProgram\obj\Debug\netcoreapp3.1\ConverterProgram.AssemblyInfo.cs
+D:\c#\ConverterProgram\ConverterProgram\obj\Debug\netcoreapp3.1\ConverterProgram.csproj.CoreCompileInputs.cache
+D:\c#\ConverterProgram\ConverterProgram\obj\Debug\netcoreapp3.1\ConverterProgram.dll
+D:\c#\ConverterProgram\ConverterProgram\obj\Debug\netcoreapp3.1\ConverterProgram.pdb
+D:\c#\ConverterProgram\ConverterProgram\obj\Debug\netcoreapp3.1\ConverterProgram.genruntimeconfig.cache

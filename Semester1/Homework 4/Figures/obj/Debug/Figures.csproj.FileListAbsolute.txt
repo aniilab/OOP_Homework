@@ -1,0 +1,10 @@
+D:\c#\Figures\Figures\bin\Debug\Figures.exe.config
+D:\c#\Figures\Figures\bin\Debug\Figures.exe
+D:\c#\Figures\Figures\bin\Debug\Figures.pdb
+D:\c#\Figures\Figures\obj\Debug\Figures.csproj.AssemblyReference.cache
+D:\c#\Figures\Figures\obj\Debug\Figures.Figures.resources
+D:\c#\Figures\Figures\obj\Debug\Figures.Properties.Resources.resources
+D:\c#\Figures\Figures\obj\Debug\Figures.csproj.GenerateResource.cache
+D:\c#\Figures\Figures\obj\Debug\Figures.csproj.CoreCompileInputs.cache
+D:\c#\Figures\Figures\obj\Debug\Figures.exe
+D:\c#\Figures\Figures\obj\Debug\Figures.pdb

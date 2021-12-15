@@ -1,0 +1,10 @@
+D:\c#\HelloWorldWF\HelloWorldWF\bin\Debug\HelloWorldWF.exe.config
+D:\c#\HelloWorldWF\HelloWorldWF\bin\Debug\HelloWorldWF.exe
+D:\c#\HelloWorldWF\HelloWorldWF\bin\Debug\HelloWorldWF.pdb
+D:\c#\HelloWorldWF\HelloWorldWF\obj\Debug\HelloWorldWF.csproj.AssemblyReference.cache
+D:\c#\HelloWorldWF\HelloWorldWF\obj\Debug\HelloWorldWF.HelloProgram.resources
+D:\c#\HelloWorldWF\HelloWorldWF\obj\Debug\HelloWorldWF.Properties.Resources.resources
+D:\c#\HelloWorldWF\HelloWorldWF\obj\Debug\HelloWorldWF.csproj.GenerateResource.cache
+D:\c#\HelloWorldWF\HelloWorldWF\obj\Debug\HelloWorldWF.csproj.CoreCompileInputs.cache
+D:\c#\HelloWorldWF\HelloWorldWF\obj\Debug\HelloWorldWF.exe
+D:\c#\HelloWorldWF\HelloWorldWF\obj\Debug\HelloWorldWF.pdb

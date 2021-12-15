@@ -1,0 +1,10 @@
+D:\c#\TriangleType\TriangleType\bin\Debug\TriangleType.exe.config
+D:\c#\TriangleType\TriangleType\bin\Debug\TriangleType.exe
+D:\c#\TriangleType\TriangleType\bin\Debug\TriangleType.pdb
+D:\c#\TriangleType\TriangleType\obj\Debug\TriangleType.csproj.AssemblyReference.cache
+D:\c#\TriangleType\TriangleType\obj\Debug\TriangleType.Form1.resources
+D:\c#\TriangleType\TriangleType\obj\Debug\TriangleType.Properties.Resources.resources
+D:\c#\TriangleType\TriangleType\obj\Debug\TriangleType.csproj.GenerateResource.cache
+D:\c#\TriangleType\TriangleType\obj\Debug\TriangleType.csproj.CoreCompileInputs.cache
+D:\c#\TriangleType\TriangleType\obj\Debug\TriangleType.exe
+D:\c#\TriangleType\TriangleType\obj\Debug\TriangleType.pdb
